@@ -5,8 +5,6 @@ import navIcon1 from '../assets/img/nav-icon1.svg';
 import githubLogo from "../assets/img/github.svg"
 import leetcodeLogo from "../assets/img/leetcode.svg"
 import MyResume from "../assets/img/resume/Rohab-Aamir.pdf";
-
-import { HashLink } from 'react-router-hash-link';
 import {
   BrowserRouter as Router
 } from "react-router-dom";
