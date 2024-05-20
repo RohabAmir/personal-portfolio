@@ -21,16 +21,19 @@ export const Projects = () => {
       title: "a talent marketplace website",
       description: "React/RTK/TypeScipt",
       imgUrl: projImg1,
+      link:"www.tribaja.co"
     },
     {
       title: "Automation Hardware Company Webstie",
       description: "React/Redux Saga/JS",
       imgUrl: projImg2,
+      link:"www.botics.dev"
     },
     {
       title: "Omnifood landing page",
       description: "HTML/SASS/Advanced Animations",
       imgUrl: projImg3,
+      link:"https://rococo-kulfi-9c7edb.netlify.app"
     },
   ];
   const projectsTab2 = [
@@ -38,16 +41,22 @@ export const Projects = () => {
       title: "a website for roboust protection for every deal",
       description: "Next/TS/RTK Query/Ant Design",
       imgUrl: projImg4,
+      link:"https://victorious-bay-0aa1c2903.5.azurestaticapps.net/"
+
     },
     {
       title: "Business Startup",
       description: "UI/UX Development",
       imgUrl: projImg5,
+      link:"www.dispatch.aero"
+
     },
     {
       title: "A website for box packaging company",
       description: "Next/MUI ",
       imgUrl: projImg6,
+      link:"https://nexa-packaging.vercel.app/"
+
     },
   ];
   const projectsTab3 = [
@@ -55,16 +64,22 @@ export const Projects = () => {
       title: "Tourist website landing page",
       description: "Html/CSS/JS",
       imgUrl: projImg7,
+      link:"https://ephemeral-elf-84c095.netlify.app"
+
     },
     {
       title: "Booking company landing page",
       description: "Html/Css/Sass",
       imgUrl: projImg8,
+      link:"https://fabulous-biscochitos-679f5c.netlify.app"
+
     },
     {
       title: "Property landing page",
       description: "HTML/SASS/JS",
       imgUrl: projImg9,
+      link:"https://cool-bienenstitch-cc6d64.netlify.app"
+
     },
   ];
 
@@ -85,7 +100,7 @@ export const Projects = () => {
                     Over the past 2 years, I have successfully delivered complex
                     projects, exceeding client expectations, and increasing test
                     coverage up-to 90%.My focus on code quality and strong
-                    communication skills make me a avaluable asset to any
+                    communication skills make me a valuable asset to any
                     project.
                   </p>
                   <Tab.Container id="projects-tabs" defaultActiveKey="first">
