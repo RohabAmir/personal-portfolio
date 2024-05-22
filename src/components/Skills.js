@@ -52,7 +52,11 @@ export const Skills = () => {
                 </div>
                 <div className="item">
                   <img src={meter1} alt="skill-img" />
-                  <h5>React/Next</h5>
+                  <h5>React</h5>
+                </div>
+                <div className="item">
+                  <img src={meter1} alt="skill-img" />
+                  <h5>Next</h5>
                 </div>
                 <div className="item">
                   <img src={meter1} alt="skill-img" />
